@@ -1,19 +1,5 @@
 # Student Management System Created Using Django
-This is a Simple Student Management System Developed While Learning Django.
-Feel free to make changes based on your requirements.
-
-[Front-end Template](http://adminlte.io "Admin LTE.io")
-
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=kArCR96m7uo "Django Student Management System Demo")
-
-And if you like this project, then ADD a STAR ⭐️  to this project 👆
-## Deployed to
-https://smswithdjango.herokuapp.com/
-
-
-## Features of this Project
-
+  
 ### A. Admin Users Can
 1. See Overall Summary Charts of Students Performances, Staff Performances, Courses, Subjects, Leave, etc.
 2. Manage Staff (Add, Update and Delete)
