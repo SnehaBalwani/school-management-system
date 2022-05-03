@@ -1,7 +1,5 @@
-dj-database-url
 Django
 django-authtools
--e git+https://github.com/yourlabs/django-autocomplete-light.git@10d7f2c5f2bf6a1f39207f861ef2f47616420e3a#egg=django_autocomplete_light
 django-bootstrap4
 django-braces
 django-cors-headers
